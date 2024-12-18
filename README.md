@@ -61,9 +61,7 @@ The main goal is to distinguish signal and background events. Two approaches can
 * Perform a multivariate analysis with the technique you prefer and evaluate its performance (e.g. in terms of Area Under the (ROC) Curve)
 
 ----------
-==========
-Update
-==========
+==========Update==========
 ----------
 # CVAE + CGaN
 
