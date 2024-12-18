@@ -1,0 +1,1 @@
+{"latent_dim": 10, "batch_size": 512, "learning_rate_cvae": 0.0005, "learning_rate_cgan_gen": 0.0001, "learning_rate_cgan_disc": 0.0004, "epochs": 50}
