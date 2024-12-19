@@ -65,7 +65,7 @@ The main goal is to distinguish signal and background events. Two approaches can
 ----------
 # CVAE + CGaN
 
-![logo][modelarchitecture.png]
+![logo]["modelarchitecture.png"]
 
 ### **Hybrid Model Overview**
 
