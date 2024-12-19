@@ -65,6 +65,8 @@ The main goal is to distinguish signal and background events. Two approaches can
 ----------
 # CVAE + CGaN
 
+![logo][modelarchitecture.png]
+
 ### **Hybrid Model Overview**
 
 The hybrid model combines two generative architectures: **Conditional Variational Autoencoder (CVAE)** and **Conditional Generative Adversarial Network (CGAN)**. These components work together to analyze, generate, and classify **Cherenkov radiation image data** from the MAGIC telescope. The goal is to distinguish gamma-ray signals (g) from hadronic showers (h) using both physics-based reconstruction and physics-agnostic multivariate analysis.
